@@ -1,0 +1,50 @@
+pes001 Done, straightforward
+pes002 Done
+pes003 Needs some work
+pes004 Done
+pes005 Needs some work, lcm of 20 numbers, fudamental theorem of arithmetic?
+pes006 Done
+pes007 
+pes008 Done, could do with some big speed ups (see comments for suggestions)
+pes009 Done, consider adding proof for statement.
+pes010 Done, maybe add more justification
+pes011 Done, add some more comments
+pes012 Done but very slow, needs speed ups
+pes013 Done, what is BigInt?
+pes014 Done, add comments
+pes015
+pes016 Done, add comments
+pes017
+pes018
+pes019
+pes020 Done
+pes021 Done, consider adding more comments
+pes022
+pes023 Done, maybe syntax could be better (minimise bouncing between sets and arrays)
+pes024
+pes025 Done
+pes026
+pes027
+pes028 Done, some more comments about strategy please
+pes029 Done
+pes030
+pes031
+pes032
+pes033
+pes034
+pes035
+pes036
+pes037
+pes038
+pes039
+pes040 Done
+pes041
+pes042
+pes043
+pes044
+pes045
+pes046
+pes047
+pes048 Done
+pes049
+pes050
